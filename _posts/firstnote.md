@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first note
+title: 2025-11-26-note.md
 date: 2025-11-26 22:10:00
 ---
 1.通过cmd命令关闭休眠选项，起码节约5G空间
