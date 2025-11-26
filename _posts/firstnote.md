@@ -1,3 +1,8 @@
+---
+layout: post
+title: first note
+date: 2025-11-26 22:10:00
+---
 1.通过cmd命令关闭休眠选项，起码节约5G空间
 ``` powercfg -h Off```
 2.使用Flodermove等软件，把一些软件的安装位置移动到其他磁盘中
